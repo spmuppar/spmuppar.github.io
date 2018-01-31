@@ -16,16 +16,18 @@
       <pubDate>Fri, 19 Jan 2018 06:31:29 -0500</pubDate>
       
       <guid>https://spmuppar.github.io/project/adaptive/</guid>
-      <description></description>
+      <description>&lt;p&gt;Non-ideal state equations are needed to compute a growing number of engineering-relevant problems. The additional computational overhead from the complex thermodynamics accounts for a significant portion of the total computation, especially the near-critical or transcritical thermodynamic regimes. A compromise between computational speed and the accuracy of the thermodynamic property evaluations results in a propagation of the error from the thermodynamics to the hydrodynamic computations.  This work proposes a systematic error quantification and computational cost estimate of the various approaches for equation of state computation for use in compressible Navier-Stokes solvers in the supercritical regime. We develop a parallelized, high-order, finite volume solver with highly-modular thermodynamic implementation to compute the compressible equations in conservative form. Three tabular approaches are investigated: homogeneous tabulation, block structured adaptive mesh refinement tabulation, and a n-dimensional Bezier surface patch on an adaptive structured mesh. We define a set of  standardized error metrics and evaluate the thermodynamic error, table size and computational expense for each approach. We also present an uncertainty quantification methodology for tabular equation of state.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Financial Portfolio Management and Statistical Analysis of S&amp;P 500 traded securities using R</title>
+      <title>Financial Portfolio Management and Statistical Analysis of S&amp;P 500 traded securities</title>
       <link>https://spmuppar.github.io/project/fin_port/</link>
       <pubDate>Fri, 19 Jan 2018 06:31:29 -0500</pubDate>
       
       <guid>https://spmuppar.github.io/project/fin_port/</guid>
-      <description></description>
+      <description>&lt;p&gt;The computation of daily returns and descriptive statistics of 3 US car stocks(F, GM, TSLA) over a 5 year period using Modern Portfolio Theory (MPT) to formulate efficient portfolios from individual assets and compute portfolio frontier. I implemented Random Walk (RW) and ARIMA time series model to simulate time history of stock price for forecasting&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -75,28 +77,20 @@
     
     <item>
       <title>CFD modelling of heat transfer in Geothermal heat exchanger</title>
-      <link>https://spmuppar.github.io/project/example-external-project/</link>
+      <link>https://spmuppar.github.io/project/cfd_hx/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://spmuppar.github.io/project/example-external-project/</guid>
+      <guid>https://spmuppar.github.io/project/cfd_hx/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Real fluid effects on Shock Tube flow at supercritical conditions</title>
-      <link>https://spmuppar.github.io/project/deep-learning/</link>
+      <link>https://spmuppar.github.io/project/real_fluid_shock/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://spmuppar.github.io/project/deep-learning/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <guid>https://spmuppar.github.io/project/real_fluid_shock/</guid>
+      <description>&lt;p&gt;A study on shock tube simulations under supercritical thermodynamic conditions to investigate real fluid effects on the wave propagation. The numerical methods are an approximate riemann solver modified for real fluid thermodynamics. Three cases are studied supercriticial, nearcritical and subcritical conditions. Also an attempt has been made to study the transcritical case using the double flux method, but the spurious pressure oscillations failed the simulation.&lt;/p&gt;
 </description>
     </item>
     
