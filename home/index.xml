@@ -1,79 +1,79 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Sai Praneeth</title>
-    <link>https://spmuppar.github.io/home/</link>
-    <description>Recent content in Homes on Sai Praneeth</description>
+    <title>Homes on SAI PRANEETH</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on SAI PRANEETH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://spmuppar.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://spmuppar.github.io/home/about/</link>
+      <link>/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://spmuppar.github.io/home/about/</guid>
+      <guid>/home/about/</guid>
       <description>Biography I am a Master student in the Department of Mechanical and Mechatronics Engineering at University of Waterloo. Currently, I am working towards my Master&amp;rsquo;s thesis on Real Gas Effects on Compressible flows in Supercritical regime in Multiphysics Interation lab under the supervision of Professor Jean-Pierre Hickey.
 I opened this website to keep track of my graduate research life, academic courses, and last but not the least, ideas that I want to share with others.</description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>https://spmuppar.github.io/home/publications/</link>
+      <link>/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://spmuppar.github.io/home/publications/</guid>
+      <guid>/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://spmuppar.github.io/home/projects/</link>
+      <link>/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://spmuppar.github.io/home/projects/</guid>
+      <guid>/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://spmuppar.github.io/home/teaching/</link>
+      <link>/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://spmuppar.github.io/home/teaching/</guid>
+      <guid>/home/teaching/</guid>
       <description>I work as a teaching assistant for the following courses of Mechanical and Mechatronics Engineering at University of Waterloo. I&amp;rsquo;ve taught tutorials and held office hours with students.
  ME 201: Advanced Calculus: Partial differential Equations, Vector Calculus ME 303: Advanced Engineering Mathematics: Computational methods for Ordinary, Partial differental equations  </description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>https://spmuppar.github.io/home/posts/</link>
+      <link>/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://spmuppar.github.io/home/posts/</guid>
+      <guid>/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>https://spmuppar.github.io/home/tags/</link>
+      <link>/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://spmuppar.github.io/home/tags/</guid>
+      <guid>/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://spmuppar.github.io/home/contact/</link>
+      <link>/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://spmuppar.github.io/home/contact/</guid>
+      <guid>/home/contact/</guid>
       <description></description>
     </item>
     
