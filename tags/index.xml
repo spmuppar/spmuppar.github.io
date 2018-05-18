@@ -1,14 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>http://example.org/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on SAI PRANEETH</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on SAI PRANEETH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Content tagged as &#39;Academic&#39;</title>
+      <link>/tags/academic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/academic/</guid>
+      <description>Here is a list of all the content that has been tagged as academic.</description>
+    </item>
+    
+    <item>
+      <title>Cfd</title>
+      <link>/tags/cfd/</link>
+      <pubDate>Fri, 19 Jan 2018 06:31:29 -0500</pubDate>
+      
+      <guid>/tags/cfd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-science</title>
+      <link>/tags/data-science/</link>
+      <pubDate>Fri, 19 Jan 2018 06:31:29 -0500</pubDate>
+      
+      <guid>/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fin</title>
+      <link>/tags/fin/</link>
+      <pubDate>Fri, 19 Jan 2018 06:31:29 -0500</pubDate>
+      
+      <guid>/tags/fin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supercritical</title>
+      <link>/tags/supercritical/</link>
+      <pubDate>Fri, 19 Jan 2018 06:31:29 -0500</pubDate>
+      
+      <guid>/tags/supercritical/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

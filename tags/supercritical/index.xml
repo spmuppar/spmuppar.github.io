@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Supercritical on SAI PRANEETH</title>
+    <link>/tags/supercritical/</link>
+    <description>Recent content in Supercritical on SAI PRANEETH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 19 Jan 2018 06:31:29 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/supercritical/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adaptive Mesh refinement based Tabulated equation of state</title>
+      <link>/project/adaptive/</link>
+      <pubDate>Fri, 19 Jan 2018 06:31:29 -0500</pubDate>
+      
+      <guid>/project/adaptive/</guid>
+      <description>Non-ideal state equations are needed to compute a growing number of engineering-relevant problems. The additional computational overhead from the complex thermodynamics accounts for a significant portion of the total computation, especially the near-critical or transcritical thermodynamic regimes. A compromise between computational speed and the accuracy of the thermodynamic property evaluations results in a propagation of the error from the thermodynamics to the hydrodynamic computations. This work proposes a systematic error quantification and computational cost estimate of the various approaches for equation of state computation for use in compressible Navier-Stokes solvers in the supercritical regime.</description>
+    </item>
+    
+    <item>
+      <title>Real fluid effects on Shock Tube flow at supercritical conditions</title>
+      <link>/publication/real_gas/</link>
+      <pubDate>Thu, 19 Oct 2017 06:12:24 -0500</pubDate>
+      
+      <guid>/publication/real_gas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

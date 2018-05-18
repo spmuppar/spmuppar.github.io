@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data-science on SAI PRANEETH</title>
+    <link>/tags/data-science/</link>
+    <description>Recent content in Data-science on SAI PRANEETH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 19 Jan 2018 06:31:29 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Multi-class Classification Algorithms for Hand Written Digits</title>
+      <link>/project/digit_class/</link>
+      <pubDate>Fri, 19 Jan 2018 06:31:29 -0500</pubDate>
+      
+      <guid>/project/digit_class/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of Santander Bank&#39;s customer spending behaviour</title>
+      <link>/project/ml_santander/</link>
+      <pubDate>Fri, 19 Jan 2018 06:31:29 -0500</pubDate>
+      
+      <guid>/project/ml_santander/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
