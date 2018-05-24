@@ -13,15 +13,24 @@
     
     
     <item>
-      <title>Daily dose</title>
-      <link>/post/getting-started/</link>
-      <pubDate>Thu, 17 May 2018 00:00:00 -0400</pubDate>
+      <title>Appeared on BNN Bloomberg for the first time</title>
+      <link>/post/bnn_bloomberg/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 -0400</pubDate>
       
-      <guid>/post/getting-started/</guid>
-      <description>Academic is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. Check out the latest demo of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the Quick Start guide or take a look at the Release Notes.
-
-Key features:
- Easily manage various content including homepage, blog posts, publications, talks, and projects Extensible via color themes and widgets/plugins Write in Markdown for easy formatting and code highlighting, with LaTeX for mathematical expressions Social/academic network linking, Google Analytics, and Disqus comments Responsive and mobile friendly Simple and refreshing one page design Multilingual and easy to customize  Color Themes Academic is available in different color themes and font themes.</description>
+      <guid>/post/bnn_bloomberg/</guid>
+      <description>Two weeks ago the Citadel&amp;rsquo;s Data Open competition was covered by BNN Bloomberg and our winning team was featured shortly in their story. Wall Street puts out all stops to woo Canadian tech talent away from Silicon Valley
+Here is the video
+   </description>
+    </item>
+    
+    <item>
+      <title>Converting Credit to Cash; the art of Stoozing</title>
+      <link>/post/credit_to_cash/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/post/credit_to_cash/</guid>
+      <description>All of us own credit cards and some of us are capable of getting sound credit in the order of 20-30,000$ Which is interest free, it came to my mind that what if we invest or buy some form of riskless or guaranteed instrument for the grace period. ?
+Obviously the process is not that simple, going to a nearby ATM and withdrawing from your credit card would be the craziest thing that you can do, as it attracts ~20% interest from that moment and turns out to be very costly.</description>
     </item>
     
     <item>
@@ -30,10 +39,8 @@ Key features:
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/post/new/</guid>
-      <description>Academic is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. Check out the latest demo of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the Quick Start guide or take a look at the Release Notes.
-
-Key features:
- Easily manage various content including homepage, blog posts, publications, talks, and projects Extensible via color themes and widgets/plugins Write in Markdown for easy formatting and code highlighting, with LaTeX for mathematical expressions Social/academic network linking, Google Analytics, and Disqus comments Responsive and mobile friendly Simple and refreshing one page design Multilingual and easy to customize  Color Themes Academic is available in different color themes and font themes.</description>
+      <description>Data Open is a competition/hackathon that brings together the best minds in mathematics, engineering, STEM to collaborate and compete using the world&amp;rsquo;s most important data sets. Over 100 undergraduate and graduate students from University of Toronto, Waterloo are invited to participate after an initial 60 minute assesment test. Our team won the first place for our work Improving 311 service through Geospatial and Time Series Analysis
+  Congratulations to Team 6 for winning The Data Open!</description>
     </item>
     
   </channel>

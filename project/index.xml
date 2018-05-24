@@ -31,12 +31,30 @@
     </item>
     
     <item>
+      <title>Improving 311 service through GeoSpatial Analysis and Time series Analysis</title>
+      <link>/project/data_open/</link>
+      <pubDate>Fri, 19 Jan 2018 06:31:29 -0500</pubDate>
+      
+      <guid>/project/data_open/</guid>
+      <description>New York city’s 311 non emergency call system sees an incredible amount of traffic every year. In 2017, the number of 311 contacts set its 4th consecutive annual record with nearly 40 million requests, surpassing 2016 by 11% (nyc.gov). With such a large volume of traffic, it is important for the government to be able to not only address requests efficiently, but allocate appropriate resources as well. With this in mind, we pose the following topic question in analyzing the dataset:</description>
+    </item>
+    
+    <item>
       <title>Multi-class Classification Algorithms for Hand Written Digits</title>
       <link>/project/digit_class/</link>
       <pubDate>Fri, 19 Jan 2018 06:31:29 -0500</pubDate>
       
       <guid>/project/digit_class/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Pairs Trading with Machine Learning</title>
+      <link>/project/pairs/</link>
+      <pubDate>Fri, 19 Jan 2018 06:31:29 -0500</pubDate>
+      
+      <guid>/project/pairs/</guid>
+      <description>[still working]</description>
     </item>
     
     <item>

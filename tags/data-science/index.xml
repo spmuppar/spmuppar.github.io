@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 19 Jan 2018 06:31:29 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 18 May 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Appeared on BNN Bloomberg for the first time</title>
+      <link>/post/bnn_bloomberg/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/post/bnn_bloomberg/</guid>
+      <description>Two weeks ago the Citadel&amp;rsquo;s Data Open competition was covered by BNN Bloomberg and our winning team was featured shortly in their story. Wall Street puts out all stops to woo Canadian tech talent away from Silicon Valley
+Here is the video
+   </description>
+    </item>
+    
+    <item>
+      <title>Improving 311 service through GeoSpatial Analysis and Time series Analysis</title>
+      <link>/project/data_open/</link>
+      <pubDate>Fri, 19 Jan 2018 06:31:29 -0500</pubDate>
+      
+      <guid>/project/data_open/</guid>
+      <description>New York city’s 311 non emergency call system sees an incredible amount of traffic every year. In 2017, the number of 311 contacts set its 4th consecutive annual record with nearly 40 million requests, surpassing 2016 by 11% (nyc.gov). With such a large volume of traffic, it is important for the government to be able to not only address requests efficiently, but allocate appropriate resources as well. With this in mind, we pose the following topic question in analyzing the dataset:</description>
+    </item>
     
     <item>
       <title>Multi-class Classification Algorithms for Hand Written Digits</title>
@@ -28,6 +48,16 @@
       
       <guid>/project/ml_santander/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>The Data Open; A Citadel Datathon at University of Waterloo</title>
+      <link>/post/new/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/post/new/</guid>
+      <description>Data Open is a competition/hackathon that brings together the best minds in mathematics, engineering, STEM to collaborate and compete using the world&amp;rsquo;s most important data sets. Over 100 undergraduate and graduate students from University of Toronto, Waterloo are invited to participate after an initial 60 minute assesment test. Our team won the first place for our work Improving 311 service through Geospatial and Time Series Analysis
+  Congratulations to Team 6 for winning The Data Open!</description>
     </item>
     
   </channel>
