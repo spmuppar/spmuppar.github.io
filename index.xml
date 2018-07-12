@@ -11,6 +11,60 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>I am taking #100DaysofMLCode challenge</title>
+      <link>/post/100daysmlcode/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/post/100daysmlcode/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/llSourcell/100_Days_of_ML_Code&#34; target=&#34;_blank&#34;&gt;#100DaysofMLCode&lt;/a&gt; challenge involves coding and/or studying machine learning for atleast an hour everyday for the next 100 days. I am pledging today that I will be taking this challenge starting today and I will post my daily updates as a log in both &lt;a href=&#34;https://github.com/spmuppar&#34; target=&#34;_blank&#34;&gt;github&lt;/a&gt; and here in my website as a blog post.&lt;/p&gt;
+
+&lt;p&gt;Here is the today update,
+I&amp;rsquo;m currently in my Week 3 Programming assignment for Coursera&amp;rsquo;s &lt;a href=&#34;https://www.coursera.org/learn/convolutional-neural-networks&#34; target=&#34;_blank&#34;&gt;Convolutional Neural Networks course&lt;/a&gt; (part of Deep learning specialization). This assignment is about &amp;ldquo;Autonomous driving - Car detection&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;I will be learning about object detection using the very powerful YOLO model. Many of the ideas in this notebook are described two papers:  &lt;a href=&#34;https://arxiv.org/abs/1506.02640&#34; target=&#34;_blank&#34;&gt;Redmon et al., 2016&lt;/a&gt; and &lt;a href=&#34;https://arxiv.org/abs/1612.08242&#34; target=&#34;_blank&#34;&gt;Redmon and Farhadi, 2016&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The objective is to learn,&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Using object detection on a car detection dataset&lt;/li&gt;
+&lt;li&gt;How to deal with bounding boxes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Problem Statement&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If you are working on an autonomous self-driving car, the most critical part of this project is to build a car detection system. To collect data, a mounted camera on the hood, which takes pictures for every few seconds while you drive. The dataset that was used in this assignment was obtained by &lt;a href=&#34;https://drive.ai&#34; target=&#34;_blank&#34;&gt;drive.ai&lt;/a&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;YOLO
+2.1 Model details
+2.2 Filtering with a threshold on class scores
+2.3 Non-max suppression&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;2.4 Wrapping up the filtering&lt;/p&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Image credit: [**Correlation-one**](https://www.correlation-one.com/)&#34; href=&#34;/img/proba_map.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;/img/proba_map.png&#34;&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Appeared on BNN Bloomberg for the first time</title>
       <link>/post/bnn_bloomberg/</link>
       <pubDate>Fri, 18 May 2018 00:00:00 -0400</pubDate>
@@ -189,42 +243,6 @@ requests in New York?&lt;/p&gt;
       
       <guid>/project/real_fluid_shock/</guid>
       <description>&lt;p&gt;A study on shock tube simulations under supercritical thermodynamic conditions to investigate real fluid effects on the wave propagation. The numerical methods are an approximate riemann solver modified for real fluid thermodynamics. Three cases are studied supercriticial, nearcritical and subcritical conditions. Also an attempt has been made to study the transcritical case using the double flux method, but the spurious pressure oscillations failed the simulation.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Data Open; A Citadel Datathon at University of Waterloo</title>
-      <link>/post/new/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/post/new/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.citadel.com/careers/the-data-open/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Data Open&lt;/strong&gt;&lt;/a&gt; is a competition/hackathon that brings together the best minds in mathematics, engineering, STEM to collaborate and compete using the world&amp;rsquo;s most important data sets. Over 100 undergraduate and graduate students from University of Toronto, Waterloo are invited to participate after an initial 60 minute assesment test. Our team won the first place for our work &lt;a href=&#34;https://github.com/spmuppar/The-Data-Open-Citadel/blob/master/team_6_submission.pdf&#34; target=&#34;_blank&#34;&gt;Improving 311 service through Geospatial and Time Series Analysis&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://scontent.fykz1-1.fna.fbcdn.net/v/t1.0-9/32547791_1127340617408869_4222892994539290624_n.jpg?_nc_cat=0&amp;amp;oh=57a10328c53b8dce8994eb0563bbf585&amp;amp;oe=5B91E819&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/p&gt;
-
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-  
-  
-  
-  
-    
-      
-    
-  
-  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Image credit: [**Correlation-one**](https://www.correlation-one.com/)&#34; href=&#34;/img/headers/data-open-logo.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;/img/headers/data-open-logo.png&#34;&gt;
-  &lt;/a&gt;
-  
-&lt;/div&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Congratulations to Team 6 for winning The Data Open! Winners of $20K! &lt;a href=&#34;https://twitter.com/CITADEL?ref_src=twsrc%5Etfw&#34;&gt;@CITADEL&lt;/a&gt; &lt;a href=&#34;https://twitter.com/CorrelationOne?ref_src=twsrc%5Etfw&#34;&gt;@CorrelationOne&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/datathon?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#datathon&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/DataScience?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#DataScience&lt;/a&gt; &lt;a href=&#34;https://t.co/88rCrh4Vab&#34;&gt;pic.twitter.com/88rCrh4Vab&lt;/a&gt;&lt;/p&gt;&amp;mdash; Waterloo Mathematics (@WaterlooMath) &lt;a href=&#34;https://twitter.com/WaterlooMath/status/995424816650895360?ref_src=twsrc%5Etfw&#34;&gt;May 12, 2018&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://twitter.com/hashtag/UWaterloo?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#UWaterloo&lt;/a&gt; Data Open competition exposes students to real-world data &amp;amp; allows them to showcase their &lt;a href=&#34;https://twitter.com/hashtag/datascience?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#datascience&lt;/a&gt; skills modelling a socially impactful problem for the chance to win $25k. &lt;a href=&#34;https://t.co/Uu3NXj8aEl&#34;&gt;https://t.co/Uu3NXj8aEl&lt;/a&gt;  &lt;a href=&#34;https://twitter.com/CorrelationOne?ref_src=twsrc%5Etfw&#34;&gt;@CorrelationOne&lt;/a&gt; &lt;a href=&#34;https://twitter.com/CITADEL?ref_src=twsrc%5Etfw&#34;&gt;@CITADEL&lt;/a&gt; &lt;a href=&#34;https://twitter.com/CSCareers?ref_src=twsrc%5Etfw&#34;&gt;@CSCareers&lt;/a&gt; &lt;a href=&#34;https://t.co/dtX3kA1DPP&#34;&gt;pic.twitter.com/dtX3kA1DPP&lt;/a&gt;&lt;/p&gt;&amp;mdash; Waterloo Mathematics (@WaterlooMath) &lt;a href=&#34;https://twitter.com/WaterlooMath/status/997488253979766784?ref_src=twsrc%5Etfw&#34;&gt;May 18, 2018&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-&lt;/p&gt;
 </description>
     </item>
     

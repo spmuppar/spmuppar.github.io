@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 18 May 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jul 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>I am taking #100DaysofMLCode challenge</title>
+      <link>/post/100daysmlcode/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/post/100daysmlcode/</guid>
+      <description>#100DaysofMLCode challenge involves coding and/or studying machine learning for atleast an hour everyday for the next 100 days. I am pledging today that I will be taking this challenge starting today and I will post my daily updates as a log in both github and here in my website as a blog post.
+Here is the today update, I&amp;rsquo;m currently in my Week 3 Programming assignment for Coursera&amp;rsquo;s Convolutional Neural Networks course (part of Deep learning specialization).</description>
+    </item>
     
     <item>
       <title>Appeared on BNN Bloomberg for the first time</title>
